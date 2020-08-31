@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![]( https://visitor-badge.glitch.me/badge?page_id=tooyi1542)
+![](https://camo.githubusercontent.com/85397b52ca97e0f051c4a200e39e30e6b01256d8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d48617272792d4368656e2673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565)
 
 <!--
 **tooyi/tooyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
