@@ -7,7 +7,9 @@
 <a href="https://github.com/tooyi">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooyi&layout=compact" />
 </a>
-
+<a href="https://github.com/tooyi">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=tooyi&show_icons=true&theme=vue"/>
+</a>
 <!--
 **tooyi/tooyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
