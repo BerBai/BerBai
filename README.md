@@ -7,9 +7,9 @@
 <a href="https://github.com/bq8023">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bq8023&layout=compact" />
 </a>
-<a href="https://github.com/bq8023">
+<!-- <a href="https://github.com/bq8023">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=bq8023&show_icons=true&theme=vue"/>
-</a>
+</a> -->
 <!--
 **bq8023/bq8023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
