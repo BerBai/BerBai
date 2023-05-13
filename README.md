@@ -17,7 +17,7 @@ I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
   <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berbai&layout=compact" />
 </a>
 
-## Visited Number
+## Magic Number
 
 ![Visited By](https://count.getloli.com/get/@BerBai?theme=gelbooru)
 
