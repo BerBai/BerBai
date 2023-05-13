@@ -18,15 +18,17 @@ I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
 </a>
 
 ## Visited Number
+
+![Visited By](https://count.getloli.com/get/@BerBai?theme=gelbooru)
+
+<!--
 <a href="https://github.com/berbai">
   <img align="left" alt="Visited By" src="https://count.getloli.com/get/@BerBai?theme=gelbooru" />
 </a>
+-->
 
-<br><br>
+## 👀 Some cool stuff to look into 
 
-<a href="https://github.com/berbai">
-  <img align="left" alt="Ber's GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=BerBai" />
-</a>
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
@@ -41,7 +43,9 @@ I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
 |  |  |
 | --- | --- |
 | ![BerBai GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BerBai) | If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/BerBai) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/BerBai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
-
+<a href="https://github.com/berbai">
+  <img align="left" alt="Ber's GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=BerBai" />
+</a>
 <a href="https://github.com/berbai">
   <img align="center" alt="Trophies 🏆" src="https://github-profile-trophy.vercel.app/?username=BerBai&layout=compact" width="100%"/>
 </a>
