@@ -1,25 +1,42 @@
 ## Hi there 👋
 
 <a href="https://github.com/berbai">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=berbai&show_icons=true&include_all_commits=true" width="450"/>
+  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=berbai&show_icons=true&include_all_commits=true" width="450"/>
 </a>
+
+I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
+
+## 💬 Worked language for me
+
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Java / Golang
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Golang
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡SQL 
 <a href="https://github.com/berbai">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berbai&layout=compact" height="177"/>
+  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berbai&layout=compact" height="177"/>
 </a>
-<!-- <a href="https://github.com/berbai">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=berbai&show_icons=true&theme=vue"/>
-</a> -->
-<!--
-**bberbai/berbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Visited Number
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visited By](https://count.getloli.com/get/@BerBai?theme=gelbooru)
+
+
+
+![Ber's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BerBai)
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**LeetCode**](https://github.com/BerBai/LeetCode) | [![GitHub issues](https://img.shields.io/github/issues/BerBai/LeetCode?color=green&logo=github&style=flat)](https://github.com/BerBai/LeetCode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/BerBai/LeetCode?style=flat&logo=github)](https://github.com/BerBai/LeetCode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/BerBai/LeetCode?style=flat&color=critical&logo=github)](https://github.com/BerBai/LeetCode/pulls?q=is%3Apr+is%3Aclosed)  |
+
+
+## My Badges
+
+[![@praveen's Holopin board](https://holopin.me/BerBai)](https://holopin.io/@BerBai)
+
+
+|  |  |
+| --- | --- |
+| ![BerBai GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BerBai) | If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/BerBai) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/BerBai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
+
+<a href="https://github.com/berbai">
+  <img align="center" alt="Trophies 🏆" src="https://github-profile-trophy.vercel.app/?username=BerBai&layout=compact" width="100%"/>
+</a>
