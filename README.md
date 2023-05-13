@@ -22,7 +22,7 @@ I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
 ## Magic Number
 
 <a href="https://github.com/berbai">
-  <img align="left" alt="Visited By" src="https://count.getloli.com/get/@BerBai?theme=gelbooru" />
+  <img alt="Visited By" src="https://count.getloli.com/get/@BerBai?theme=gelbooru" />
 </a>
 
 ## 👀 Some cool stuff to look into 
