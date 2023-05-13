@@ -4,7 +4,9 @@
   <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=berbai&show_icons=true&include_all_commits=true" width="450"/>
 </a>
 
+
 I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
+
 
 ## 💬 Worked language for me
 
@@ -13,15 +15,17 @@ I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡SQL 
 
 
+
 <a href="https://github.com/berbai">
   <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berbai&layout=compact" height="177"/>
 </a>
+
 
 ## Visited Number
 
 ![Visited By](https://count.getloli.com/get/@BerBai?theme=gelbooru)
 
-
+----
 
 ![Ber's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BerBai)
 
