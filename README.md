@@ -14,20 +14,19 @@ I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Golang
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡SQL 
 <a href="https://github.com/berbai">
-  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berbai&layout=compact" height="177"/>
+  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berbai&layout=compact" />
 </a>
 
 ## Visited Number
+<a href="https://github.com/berbai">
+  <img align="left" alt="Visited By" src="https://count.getloli.com/get/@BerBai?theme=gelbooru" />
+</a>
 
-![Visited By](https://count.getloli.com/get/@BerBai?theme=gelbooru)
+<br><br>
 
-
-
-
-
-----
-
-![Ber's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BerBai)
+<a href="https://github.com/berbai">
+  <img align="left" alt="Ber's GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=BerBai" />
+</a>
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
