@@ -14,6 +14,7 @@ I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Java / Golang
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Golang
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡SQL 
 <a href="https://github.com/berbai">
   <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berbai&layout=compact" />
@@ -31,6 +32,7 @@ I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**LeetCode**](https://github.com/BerBai/LeetCode) | [![GitHub issues](https://img.shields.io/github/issues/BerBai/LeetCode?color=green&logo=github&style=flat)](https://github.com/BerBai/LeetCode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/BerBai/LeetCode?style=flat&logo=github)](https://github.com/BerBai/LeetCode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/BerBai/LeetCode?style=flat&color=critical&logo=github)](https://github.com/BerBai/LeetCode/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**weibo**](https://github.com/BerBai/weibo) | [![GitHub issues](https://img.shields.io/github/issues/BerBai/weibo?color=green&logo=github&style=flat)](https://github.com/BerBai/weibo/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/BerBai/weibo?style=flat&logo=github)](https://github.com/BerBai/weibo/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/BerBai/weibo?style=flat&color=critical&logo=github)](https://github.com/BerBai/weibo/pulls?q=is%3Apr+is%3Aclosed)  |
 
 
 ## My Badges
