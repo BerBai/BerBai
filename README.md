@@ -7,7 +7,7 @@
 <a href="https://github.com/berbai">
   <img align="right" src="https://github-profile.misec.top/api?username=BerBai&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 </a>
-I am Ber 🙋🏻‍♂️, Cat Lover, Backend Developer.
+I am Ber 🙋🏻‍♂️, Cat and Dog Lover, Backend Developer.
 
 
 ## 💬 Worked language for me
