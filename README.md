@@ -7,7 +7,7 @@
 <a href="https://github.com/berbai">
   <img align="right" src="https://github-profile.misec.top/api?username=BerBai&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 </a>
-I am Ber 🙋🏻‍♂️, Cat and Dog Lover, Backend Developer.
+I am Jason 🙋🏻‍♂️, Cat and Dog Lover, Backend Developer.
 
 
 ## 💬 Worked language for me
@@ -44,12 +44,12 @@ I am Ber 🙋🏻‍♂️, Cat and Dog Lover, Backend Developer.
 | --- | --- |
 <!--
 <a href="https://github.com/berbai">
-  <img align="left" alt="Ber's GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=BerBai" />
+  <img align="left" alt="Jason's GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=BerBai" />
 </a>
 -->
 <a href="https://github.com/berbai">
 
-  <img align="left" alt="Ber's GitHub Activity Graph" src="https://metrics.lecoq.io/berbai?template=classic&base.indepth=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&habits=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai&config.twemoji=true&config.display=large" />
+  <img align="left" alt="Jason's GitHub Activity Graph" src="https://metrics.lecoq.io/berbai?template=classic&base.indepth=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&habits=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai&config.twemoji=true&config.display=large" />
 </a>
 
 <a href="https://github.com/berbai">
