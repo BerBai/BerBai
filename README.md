@@ -12,7 +12,6 @@ I am Jason 🙋🏻‍♂️, Cat and Dog Lover, Backend Developer.
 
 ## 💬 Worked language for me
 
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Java / Golang
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Golang
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡SQL 
@@ -33,6 +32,7 @@ I am Jason 🙋🏻‍♂️, Cat and Dog Lover, Backend Developer.
 |-------------|-------------------|---|---|
 | [**LeetCode**](https://github.com/BerBai/LeetCode) | [![GitHub issues](https://img.shields.io/github/issues/BerBai/LeetCode?color=green&logo=github&style=flat)](https://github.com/BerBai/LeetCode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/BerBai/LeetCode?style=flat&logo=github)](https://github.com/BerBai/LeetCode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/BerBai/LeetCode?style=flat&color=critical&logo=github)](https://github.com/BerBai/LeetCode/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**inkstone**](https://github.com/BerBai/inkstone) | [![GitHub issues](https://img.shields.io/github/issues/BerBai/inkstone?color=green&logo=github&style=flat)](https://github.com/BerBai/inkstone/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/BerBai/inkstone?style=flat&logo=github)](https://github.com/BerBai/inkstone/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/BerBai/inkstone?style=flat&color=critical&logo=github)](https://github.com/BerBai/inkstone/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**tools**](https://github.com/BerBai/tools) | [![GitHub issues](https://img.shields.io/github/issues/BerBai/tools?color=green&logo=github&style=flat)](https://github.com/BerBai/tools/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/BerBai/tools?style=flat&logo=github)](https://github.com/BerBai/tools/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/BerBai/tools?style=flat&color=critical&logo=github)](https://github.com/BerBai/tools/pulls?q=is%3Apr+is%3Aclosed)  |
 
 <!--
 ## My Badges
